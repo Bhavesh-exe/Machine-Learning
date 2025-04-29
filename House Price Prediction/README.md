@@ -36,7 +36,7 @@ The model predicts the house price based on the entered features.
 
 ## 🖼 Screenshot
 
-![Frontend Screenshot](Frontend/frontend.png)
+![Frontend Screenshot](frontend.png)
 
 ---
 
