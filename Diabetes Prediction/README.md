@@ -34,7 +34,7 @@ This project is a Machine Learning-based web application that predicts whether a
 
 ## 🖥️ Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
