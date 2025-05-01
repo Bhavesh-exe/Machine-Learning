@@ -1,47 +1,48 @@
-# House-Price-Prediction
+# 🤖 Machine Learning Projects Collection
 
-A machine learning project that predicts house prices based on various features of the Boston Housing Dataset. This project demonstrates training a regression model and building a user-friendly web interface using Gradio.
-
----
-
-## 📁 Project Structure
-
+Welcome to my collection of machine learning mini and major projects!  
+This repository contains end-to-end implementations of various ML models with interactive frontends, trained using real-world datasets. Most interfaces are built with **Gradio** for easy deployment and demonstration.
 
 ---
 
-## 🧠 Tech Stack
+## 📌 Project List
 
-- **Language:** Python  
-- **ML Library:** Scikit-learn  
-- **Interface:** Gradio  
-- **Other Tools:** NumPy, Pandas, Matplotlib
+Each folder below represents a self-contained project with its own dataset, model, backend notebook, and frontend interface.
 
----
-
-## 🚀 How it Works
-
-### 1. Model Training
-The `train_model.ipynb` notebook loads the Boston Housing dataset, performs preprocessing, trains a regression model, and saves it as `model.pkl`.
-
-### 2. User Interface
-The `app.ipynb` notebook uses Gradio to create a clean web interface. You can input various house features like:
-- Crime Rate
-- Number of Rooms
-- Property Tax Rate
-- Distance to Employment Centers, etc.
-
-The model predicts the house price based on the entered features.
+| 🔢 Project Name             | 🚀 Description                                                  |
+|----------------------------|------------------------------------------------------------------|
+| [house-price-prediction](./House-Price-Prediction) | Predict housing prices using regression models |
+| [diabetes-prediction](./Diabetes-Prediction)       | Predict diabetes presence based on health features     |
 
 ---
 
-## 🖼 Screenshot
+## 🧰 Tools & Libraries Used
 
-![Frontend Screenshot](Frontend/frontend.png)
+   - **Languages**: Python
+   - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Gradio, Pickle
+   - **Model Deployment**: Gradio (in notebooks)
+   - **Environment**: Jupyter / Google Colab
 
 ---
 
-## 🛠 How to Run
+## 📁 Folder Structure
+   
+   Each project includes:
+   - Clean code notebooks (`train_model.ipynb`)
+   - Saved model (`model.pkl`)
+   - Frontend interface (`app.ipynb`)
+   - Optional screenshots and dataset CSVs
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/bhavesh-exe/house-price-prediction.git
+---
+
+## 🙋‍♂️ About Me
+
+I'm **Bhavesh** (`@bhavesh-exe`), a B.Tech student passionate about Machine Learning, Python, and building cool projects.  
+I made this repository to track my progress and contribute to my GitHub journey with meaningful work.
+
+---
+
+## ⭐ Give it a Star
+
+If you like this repo or find it helpful, consider giving it a ⭐ and following for more updates. Feedback is always welcome!
+
