@@ -9,10 +9,8 @@ This repository contains end-to-end implementations of various ML models with in
 
 Each folder below represents a self-contained project with its own dataset, model, backend notebook, and frontend interface.
 
-| 🔢 Project Name             | 🚀 Description                                                  |
-|----------------------------|------------------------------------------------------------------|
-| [house-price-prediction](./House-Price-Prediction) | Predict housing prices using regression models |
-| [diabetes-prediction](./Diabetes-Prediction)       | Predict diabetes presence based on health features     |
+- [House Price Prediction](https://github.com/Bhavesh-exe/Machine-Learning/tree/main/House%20Price%20Prediction)
+- [Diabetes Prediction](https://github.com/Bhavesh-exe/Machine-Learning/tree/main/Diabetes%20Prediction)
 
 ---
 
