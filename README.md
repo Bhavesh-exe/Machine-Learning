@@ -11,6 +11,8 @@ Each folder below represents a self-contained project with its own dataset, mode
 
 - [House Price Prediction](https://github.com/Bhavesh-exe/Machine-Learning/tree/main/House%20Price%20Prediction)
 - [Diabetes Prediction](https://github.com/Bhavesh-exe/Machine-Learning/tree/main/Diabetes%20Prediction)
+- [Malignant Cancer Detection](https://github.com/Bhavesh-exe/Machine-Learning/tree/main/Cancer%20Detection)
+
 
 ---
 
