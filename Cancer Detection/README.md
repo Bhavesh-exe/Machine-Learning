@@ -17,7 +17,7 @@ This project uses a machine learning model to detect malignant tumors based on v
 - Gradio (for frontend interface)
 
 ## 📷 Screenshot
-![App Interface](Screenshot.png)
+![App Interface](Screenshoot.png)
 
 
 ## 🚀 How to Run
